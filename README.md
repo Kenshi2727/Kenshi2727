@@ -1,6 +1,6 @@
 <img src="profile.png" height=250 width=100% />
 <h1 align="center">Hi 👋, I'm Abhishek Mathur</h1>
-<h3 align="center">"Innovating One Commit at a Time | Software Developer |Tech Enthusiast"</h3>
+<h3 align="center">"Innovating One Commit at a Time | Software Developer |Gen AI Enthusiast"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenshi2727&label=Profile%20views&color=0e75b6&style=flat" alt="kenshi2727" /> </p>
 
 - 🔭 I’m currently working on **ML,Backend Systems and Databases**
