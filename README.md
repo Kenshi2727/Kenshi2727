@@ -1,28 +1,114 @@
-<img src="profile.png" height=250 width=100% />
-<h1 align="center">Hi 👋, I'm Abhishek Mathur</h1>
-<h3 align="center">"Innovating One Commit at a Time | Software Developer |Gen AI Enthusiast"</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenshi2727&label=Profile%20views&color=0e75b6&style=flat" alt="kenshi2727" /> </p>
+<!-- Dynamic Banner with Parallax Effect -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kenshi2727/kenshi2727/main/profile.png" alt="banner" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0,247,46,0.3); transform: perspective(1000px) rotateX(10deg);" width="100%" height="300"/>
+</div>
 
-- 🔭 I’m currently working on **ML,Backend Systems and Databases**
+<!-- Matrix-style Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=2800&pause=800&color=00F72E&center=true&vCenter=true&width=680&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Mathur;Software+Alchemist;Gen+AI+Evangelist;Full-Stack+Architect;Innovation+Catalyst" alt="Typing Matrix" />
+  </a>
+</h1>
 
-- 🌱 I’m currently learning **React Framework**
+<!-- Glowing Badges -->
+<p align="center">
+  <a href="https://github.com/kenshi2727">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kenshi2727?theme=dark&background=1A1A1A&ring=00F72E&fire=00F72E&currStreakNum=FFFFFF&sideNums=00F72E&currStreakLabel=00F72E" alt="GitHub Stats" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kenshi2727&color=00F72E&style=for-the-badge&label=PROFILE+VISITS" alt="Profile views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkenshi2727&count_bg=%2300F72E&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="GitHub Hits"/>
+</p>
 
-- 👯 I’m looking to collaborate on **various projects involving web development and AI Integration**
+<!-- Holographic Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/8b7QDRp.png" width="100%" alt="holographic-divider"/>
+</div>
 
-- 💬 Ask me about **javascript,python,node,postgreSQL,pandas and more....**
+<!-- 3D Card Section -->
+### 🚀 **Cyber Profile**
 
-- 📫 How to reach me **abhishekmathurofficial@gmail.com**
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 30px 0;">
 
-- ⚡ Fun fact **The first computer bug was a literal bug!**
+  <!-- Neural Network Card -->
+  <div style="background: linear-gradient(145deg, #1A1A1A, #000); padding: 25px; border-radius: 15px; border: 2px solid #00F72E; transform-style: preserve-3d; box-shadow: 0 15px 35px rgba(0,247,46,0.2);">
+    <h3 style="color: #00F72E; text-shadow: 0 0 15px rgba(0,247,46,0.5);">🧠 Neural Focus</h3>
+    <p style="font-size: 1.1em;">▹ Next-Gen ML Architectures</p>
+    <p style="font-size: 1.1em;">▹ Distributed Backend Systems</p>
+    <p style="font-size: 1.1em;">▹ React Ecosystem Mastery</p>
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  <!-- Collaboration Matrix -->
+  <div style="background: linear-gradient(145deg, #1A1A1A, #000); padding: 25px; border-radius: 15px; border: 2px solid #00F72E; transform-style: preserve-3d; box-shadow: 0 15px 35px rgba(0,247,46,0.2);">
+    <h3 style="color: #00F72E; text-shadow: 0 0 15px rgba(0,247,46,0.5);">🤖 AI Synergy</h3>
+    <p style="font-size: 1.1em;">▹ Intelligent Web Solutions</p>
+    <p style="font-size: 1.1em;">▹ Open Source AI Projects</p>
+    <p style="font-size: 1.1em;">▹ Generative Model Integration</p>
+  </div>
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenshi2727&" alt="kenshi2727" width=100% height=30%/></p></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenshi2727&show_icons=true&locale=en&layout=compact" alt="kenshi2727" width=100% height=30%/></p>
+</div>
 
+<!-- Animated Tech Grid -->
+### ⚡ **Tech Arsenal**
 
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; margin: 40px 0;">
 
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1A1A1A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1A1A1A)](https://www.python.org/)
+  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1A1A1A)](https://reactjs.org/)
+  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1A1A1A)](https://nodejs.org/)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-scale&logo=postgresql&logoColor=white&labelColor=1A1A1A)](https://www.postgresql.org/)
+  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1A1A1A)](https://www.tensorflow.org/)
+  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1A1A1A)](https://www.docker.com/)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=1A1A1A)](https://kubernetes.io/)
 
+</div>
 
-<p><img src="github-copilot.png" width=30% height=30%/></p>
+<!-- Interactive GitHub Visuals -->
+### 🌌 **Code Galaxy**
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
+
+  <!-- Dynamic Coding Streak -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenshi2727&theme=neon-dark&background=1A1A1A&border=00F72E&stroke=00F72E&dates=FFFFFF&ring=00F72E&fire=00F72E&currStreakNum=FFFFFF&sideNums=00F72E&currStreakLabel=00F72E)](https://git.io/streak-stats)
+
+  <!-- Language Radar -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshi2727&layout=compact&theme=neon-palenight&bg_color=1A1A1A&title_color=00F72E&text_color=FFFFFF&icon_color=00F72E&hide_border=true)](https://github.com/kenshi2727)
+
+  <!-- 3D Contribution Graph -->
+  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenshi2727&theme=react-dark&bg_color=1A1A1A&hide_border=true&color=00F72E&line=00F72E&point=FFFFFF&area=true&area_color=00F72E)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- Quantum Connection -->
+### 📡 **Quantum Links**
+
+<div align="center" style="margin: 50px 0;">
+  <a href="mailto:abhishekmathurofficial@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" style="margin: 10px; transform: rotate(-2deg); transition: all 0.3s ease;">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/%F0%9F%93%88_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn" style="margin: 10px; transform: rotate(2deg); transition: all 0.3s ease;">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/%F0%9F%93%99_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A1A1A" alt="Twitter" style="margin: 10px; transform: rotate(-1deg); transition: all 0.3s ease;">
+  </a>
+</div>
+
+<!-- Animated Fact -->
+### 🌀 **Cyber Trivia**
+
+> <div align="center" style="padding: 20px; background: linear-gradient(45deg, #1A1A1A, #000); border-radius: 15px; border: 2px solid #00F72E; box-shadow: 0 0 25px rgba(0,247,46,0.3);">
+>   "The first computer virus was called <span style='color: #00F72E'>Creeper</span> in 1971 - it displayed the message: 
+>   <span style='color: #00F72E'>'I'm the creeper, catch me if you can!'</span> 🦠💻"
+> </div>
+
+<!-- Snake Animation Fix -->
+### 🐍 **Contribution Serpent**
+
+![Snake animation](https://raw.githubusercontent.com/kenshi2727/kenshi2727/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Terminal Footer -->
+<div align="center" style="margin-top: 50px; padding: 15px; background: #1A1A1A; border-radius: 8px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=System+Status%3A+OPERATIONAL+%7C+Last+Update%3A+$(date+%22%Y-%m-%d+%H%3A%M%3A%S%22)+%7C+Ready+For+Collaboration+%F0%9F%91%8B" alt="Terminal Status" />
+</div>
