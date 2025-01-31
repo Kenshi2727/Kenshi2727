@@ -22,7 +22,7 @@
 
 <!-- Holographic Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/8b7QDRp.png" width="100%" alt="holographic-divider"/>
+  <img src="https://media3.giphy.com/media/3osxYqNvrl2YaPGLaU/200w.gif?cid=6c09b9520ir0qb8vv3bwm4ngth910hcd1p1v59cx60gbh5tq&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100%" alt="holographic-divider"/>
 </div>
 
 <!-- 3D Card Section -->
@@ -87,11 +87,8 @@
   <a href="mailto:abhishekmathurofficial@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" style="margin: 10px; transform: rotate(-2deg); transition: all 0.3s ease;">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/abhishek-mathur-29569a260/?originalSubdomain=in">
     <img src="https://img.shields.io/badge/%F0%9F%93%88_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn" style="margin: 10px; transform: rotate(2deg); transition: all 0.3s ease;">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/%F0%9F%93%99_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A1A1A" alt="Twitter" style="margin: 10px; transform: rotate(-1deg); transition: all 0.3s ease;">
   </a>
 </div>
 
