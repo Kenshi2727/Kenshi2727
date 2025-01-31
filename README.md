@@ -22,7 +22,7 @@
 
 <!-- Holographic Divider -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/3osxYqNvrl2YaPGLaU/200w.gif?cid=6c09b9520ir0qb8vv3bwm4ngth910hcd1p1v59cx60gbh5tq&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100%" alt="holographic-divider"/>
+  <img src="https://media3.giphy.com/media/3osxYqNvrl2YaPGLaU/200w.gif?cid=6c09b9520ir0qb8vv3bwm4ngth910hcd1p1v59cx60gbh5tq&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100%" height="30px" alt="holographic-divider"/>
 </div>
 
 <!-- 3D Card Section -->
