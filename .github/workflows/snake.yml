@@ -1,36 +1,48 @@
-name: Snake Animation Generator
+name: 🐍 Cyber Snake
 on: 
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 0 * * *"  # Daily update
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: 🛰️ Checkout Code
+        uses: actions/checkout@v4
+        with:
+          ref: master  # Critical for profile repos
+          fetch-depth: 0
 
-      - name: Create output directory
-        run: mkdir -p output
+      - name: 📂 Verify Output Directory
+        run: |
+          mkdir -p output
+          ls -al  # Debug directory structure
 
-      - name: Generate snake animation
+      - name: 🎨 Generate Snake
         uses: Platane/snk@v2
+        id: snake
         with:
           github_user_name: kenshi2727
           svg_output_path: output/github-contribution-grid-snake-dark.svg
-          theme: dark
-          recursive: true
+          theme: "dark"
+          direction: "bottom"
 
-      - name: Commit and push
+      - name: 🔍 Verify Snake Creation
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add output/github-contribution-grid-snake-dark.svg
-          git commit -m "Update snake animation"
-          git push
+          echo "Checking generated file:"
+          ls -al output/
+          [ -f output/github-contribution-grid-snake-dark.svg ] || exit 1
+
+      - name: 💾 Commit to Repository
+        run: |
+          git config --global user.name "GitHub Cyber-Snake"
+          git config --global user.email "snake-bot@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git checkout master
+          git add -f output/github-contribution-grid-snake-dark.svg
+          git commit -m "🐍 Update snake animation (Automated)"
+          git pull --rebase  # Prevent divergence
+          git push origin master
