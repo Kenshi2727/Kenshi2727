@@ -1,48 +1,42 @@
-name: 🐍 Cyber Snake
-on: 
+name: GitHub Snake Game
+
+on:
+  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"  # Daily update
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
   workflow_dispatch:
-
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
-      - name: 🛰️ Checkout Code
-        uses: actions/checkout@v4
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
-          ref: master  # Critical for profile repos
-          fetch-depth: 0
-
-      - name: 📂 Verify Output Directory
-        run: |
-          mkdir -p output
-          ls -al  # Debug directory structure
-
-      - name: 🎨 Generate Snake
-        uses: Platane/snk@v2
-        id: snake
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_user_name: kenshi2727
-          svg_output_path: output/github-contribution-grid-snake-dark.svg
-          theme: "dark"
-          direction: "bottom"
-
-      - name: 🔍 Verify Snake Creation
-        run: |
-          echo "Checking generated file:"
-          ls -al output/
-          [ -f output/github-contribution-grid-snake-dark.svg ] || exit 1
-
-      - name: 💾 Commit to Repository
-        run: |
-          git config --global user.name "GitHub Cyber-Snake"
-          git config --global user.email "snake-bot@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git checkout master
-          git add -f output/github-contribution-grid-snake-dark.svg
-          git commit -m "🐍 Update snake animation (Automated)"
-          git pull --rebase  # Prevent divergence
-          git push origin master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
