@@ -87,7 +87,7 @@
   <a href="mailto:abhishekmathurofficial@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" style="margin: 10px; transform: rotate(-2deg); transition: all 0.3s ease;">
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-mathur-29569a260/?originalSubdomain=in">
+  <a href="https://www.linkedin.com/in/abhishek-mathur-29569a260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/%F0%9F%93%88_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn" style="margin: 10px; transform: rotate(2deg); transition: all 0.3s ease;">
   </a>
 </div>
