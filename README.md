@@ -33,7 +33,7 @@
   <!-- Neural Network Card -->
   <div style="background: linear-gradient(145deg, #1A1A1A, #000); padding: 25px; border-radius: 15px; border: 2px solid #00F72E; transform-style: preserve-3d; box-shadow: 0 15px 35px rgba(0,247,46,0.2);">
     <h3 style="color: #00F72E; text-shadow: 0 0 15px rgba(0,247,46,0.5);">🧠 Neural Focus</h3>
-    <p style="font-size: 1.1em;">▹ Next-Gen ML Architectures</p>
+    <p style="font-size: 1.1em;">▹ Next-Gen Fullstack Architectures</p>
     <p style="font-size: 1.1em;">▹ Distributed Backend Systems</p>
     <p style="font-size: 1.1em;">▹ React Ecosystem Mastery</p>
   </div>
@@ -42,7 +42,7 @@
   <div style="background: linear-gradient(145deg, #1A1A1A, #000); padding: 25px; border-radius: 15px; border: 2px solid #00F72E; transform-style: preserve-3d; box-shadow: 0 15px 35px rgba(0,247,46,0.2);">
     <h3 style="color: #00F72E; text-shadow: 0 0 15px rgba(0,247,46,0.5);">🤖 AI Synergy</h3>
     <p style="font-size: 1.1em;">▹ Intelligent Web Solutions</p>
-    <p style="font-size: 1.1em;">▹ Open Source AI Projects</p>
+    <p style="font-size: 1.1em;">▹ Open Source Web Projects</p>
     <p style="font-size: 1.1em;">▹ Generative Model Integration</p>
   </div>
 
