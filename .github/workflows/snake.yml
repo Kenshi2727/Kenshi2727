@@ -16,7 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # ensures you can push new commits
+          fetch-depth: 0             # full history, safer for git operations
 
       - name: Generate Snake Animations
         uses: Platane/snk@v3
@@ -41,6 +45,9 @@ jobs:
         run: |
           TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
           sed -i "s|Last Update: .*|Last Update: $TIMESTAMP|" README.md
+
+      - name: Show README diff (debug)
+        run: git diff README.md || echo "No changes to commit"
 
       - name: Commit README Timestamp
         uses: EndBug/add-and-commit@v9
