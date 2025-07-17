@@ -63,6 +63,7 @@
   [![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white&labelColor=1A1A1A)](https://nodemon.io/)
   [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1A1A1A)](https://www.mongodb.com/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A1A1A)](https://www.postgresql.org/)
+  [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1A1A1A)](https://redis.io/)
   [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=1A1A1A)](https://tailwindcss.com/)
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1A1A1A)](https://getbootstrap.com/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1A1A1A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
