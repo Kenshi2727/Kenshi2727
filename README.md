@@ -17,7 +17,7 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=kenshi2727&color=00F72E&style=for-the-badge&label=PROFILE+VISITS" alt="Profile views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkenshi2727&count_bg=%2300F72E&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="GitHub Hits"/>
+<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkenshi2727&count_bg=%2300F72E&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="GitHub Hits"/> -->
 </p>
 
 <!-- Holographic Divider -->
