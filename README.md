@@ -86,7 +86,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenshi2727&theme=neon-dark&background=1A1A1A&border=00F72E&stroke=00F72E&dates=FFFFFF&ring=00F72E&fire=00F72E&currStreakNum=FFFFFF&sideNums=00F72E&currStreakLabel=00F72E)](https://git.io/streak-stats)
 
   <!-- Language Radar -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshi2727&layout=compact&theme=neon-palenight&bg_color=1A1A1A&title_color=00F72E&text_color=FFFFFF&icon_color=00F72E&hide_border=true)](https://github.com/kenshi2727)
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kenshi2727&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff88"/>
 
   <!-- 3D Contribution Graph -->
   [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenshi2727&theme=react-dark&bg_color=1A1A1A&hide_border=true&color=00F72E&line=00F72E&point=FFFFFF&area=true&area_color=00F72E)](https://github.com/ashutosh00710/github-readme-activity-graph)
