@@ -11,7 +11,9 @@
 </h1>
 
 <!-- Glowing Badges -->
+
 <p align="center">
+  
   <a href="https://github.com/kenshi2727">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kenshi2727?theme=dark&background=1A1A1A&ring=00F72E&fire=00F72E&currStreakNum=FFFFFF&sideNums=00F72E&currStreakLabel=00F72E" alt="GitHub Stats" />
   </a>
