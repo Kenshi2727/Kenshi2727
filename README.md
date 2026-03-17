@@ -126,5 +126,5 @@
 
 <!-- Terminal Footer -->
 <div align="center" style="margin-top: 50px; padding: 15px; background: #1A1A1A; border-radius: 8px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=System+Status%3A+OPERATIONAL+%7C+Last+Update%3A+$(date+%22%Y-%m-%d+%H%3A%M%3A%S%22)+%7C+Ready+For+Collaboration+%F0%9F%91%8B" alt="Terminal Status" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2200&pause=800&color=00F72E&center=true&vCenter=true&width=900&lines=booting+kenshi-webspace...;loading+modules...;establishing+secure+connection...;system+check+complete;%5B+Kenshi+Webspace+%5D+Initializing...;%5B+Status+%5D+ONLINE;%5B+Database+%5D+CONNECTED;%5B+API+%5D+RESPONDING;%5B+System+%5D+STABLE;%5B+Access+%5D+AUTHORIZED;Kenshi+Webspace+%7C+Production+Environment;Uptime%3A+99.99%25;Services%3A+API+%7C+DB+%7C+Auth+%7C+Storage;Latency%3A+Normal;System+Status%3A+OPERATIONAL+%7C+Last+Update%3A+27%2F27%2F27;All+Services+Running+Normally;No+Incidents+Reported;Ready+for+Collaboration" />
 </div>
